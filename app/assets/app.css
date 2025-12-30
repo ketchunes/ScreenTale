@@ -12,9 +12,9 @@
   --color-base-content: oklch(96% 0.003 264.542);
   --color-primary: #2d1b2d;
   --color-primary-content: oklch(100% 0 0);
-  --color-secondary: oklch(83% 0.145 321.434);
-  --color-secondary-content: oklch(29% 0.136 325.661);
-  --color-accent: oklch(0% 0 0);
+  --color-secondary: #51414f;
+  --color-secondary-content: #4ade80;
+  --color-accent: #2c1b2c;
   --color-accent-content: oklch(100% 0 0);
   --color-neutral: oklch(13% 0.028 261.692);
   --color-neutral-content: oklch(98% 0.002 247.839);
@@ -37,7 +37,4 @@
 }
 .dev{
   outline: 1px solid red;
-}
-.transition:hover{
-  transition: .10s;
 }
